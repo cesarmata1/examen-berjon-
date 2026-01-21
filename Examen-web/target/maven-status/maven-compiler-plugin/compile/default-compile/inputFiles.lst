@@ -1,0 +1,8 @@
+/Users/administrador/Desktop/CesarMataRodriguez/Examen-web/src/main/java/es/upsa/dasi/empresa/adapters/input/mvc/CustomersResource.java
+/Users/administrador/Desktop/CesarMataRodriguez/Examen-web/src/main/java/es/upsa/dasi/empresa/application/FindAllUseCase.java
+/Users/administrador/Desktop/CesarMataRodriguez/Examen-web/src/main/java/es/upsa/dasi/empresa/application/impl/FindAllUseCaseImpl.java
+/Users/administrador/Desktop/CesarMataRodriguez/Examen-web/src/main/java/es/upsa/dasi/empresa/domain/exceptions/ExamenRunTimeException.java
+/Users/administrador/Desktop/CesarMataRodriguez/Examen-web/src/main/java/es/upsa/dasi/empresa/domain/exceptions/ProductoNotFoundRunTimeException.java
+/Users/administrador/Desktop/CesarMataRodriguez/Examen-web/src/main/java/es/upsa/dasi/empresa/infrastructure/WebApplication.java
+/Users/administrador/Desktop/CesarMataRodriguez/Examen-web/src/main/java/es/upsa/dasi/empresa/infrastructure/rest/BackendRestClient.java
+/Users/administrador/Desktop/CesarMataRodriguez/Examen-web/src/main/java/es/upsa/dasi/empresa/infrastructure/rest/provider/ExamenResponseExceptionMapper.java

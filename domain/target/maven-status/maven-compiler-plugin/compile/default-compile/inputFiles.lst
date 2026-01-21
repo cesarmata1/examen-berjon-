@@ -1,0 +1,6 @@
+/Users/administrador/Desktop/CesarMataRodriguez/domain/src/main/java/es/upsa/dasi/examen/domain/dtos/CustomerDto.java
+/Users/administrador/Desktop/CesarMataRodriguez/domain/src/main/java/es/upsa/dasi/examen/domain/dtos/ErrorDto.java
+/Users/administrador/Desktop/CesarMataRodriguez/domain/src/main/java/es/upsa/dasi/examen/domain/entities/Customer.java
+/Users/administrador/Desktop/CesarMataRodriguez/domain/src/main/java/es/upsa/dasi/examen/domain/exceptions/ExamenException.java
+/Users/administrador/Desktop/CesarMataRodriguez/domain/src/main/java/es/upsa/dasi/examen/domain/exceptions/ExamenSqlException.java
+/Users/administrador/Desktop/CesarMataRodriguez/domain/src/main/java/es/upsa/dasi/examen/domain/mappers/Mappers.java
