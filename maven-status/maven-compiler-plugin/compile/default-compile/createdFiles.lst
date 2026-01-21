@@ -1,0 +1,5 @@
+es/upsa/dasi/examen/backend/infraestructure/DaoImpl.class
+es/upsa/dasi/examen/backend/application/impl/FindAllUseCaseImpl.class
+es/upsa/dasi/examen/backend/adapters/output/persistence/Dao.class
+es/upsa/dasi/examen/backend/adapters/input/rest/CustomersResource.class
+es/upsa/dasi/examen/backend/application/FindAllUseCase.class

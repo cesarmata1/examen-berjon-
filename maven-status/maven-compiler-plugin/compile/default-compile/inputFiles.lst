@@ -1,0 +1,5 @@
+/Users/administrador/Desktop/CesarMataRodriguez/examen-backend/src/main/java/es/upsa/dasi/examen/backend/adapters/input/rest/CustomersResource.java
+/Users/administrador/Desktop/CesarMataRodriguez/examen-backend/src/main/java/es/upsa/dasi/examen/backend/adapters/output/persistence/Dao.java
+/Users/administrador/Desktop/CesarMataRodriguez/examen-backend/src/main/java/es/upsa/dasi/examen/backend/application/FindAllUseCase.java
+/Users/administrador/Desktop/CesarMataRodriguez/examen-backend/src/main/java/es/upsa/dasi/examen/backend/application/impl/FindAllUseCaseImpl.java
+/Users/administrador/Desktop/CesarMataRodriguez/examen-backend/src/main/java/es/upsa/dasi/examen/backend/infraestructure/DaoImpl.java
